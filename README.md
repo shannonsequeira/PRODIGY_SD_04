@@ -35,7 +35,7 @@ Sudoku Solver
 
 ![Visualization 2](images/sudoku_solved.png)
 
-![Visualization 2](images/sudoku_input1.png)
+![Visualization 2](images/sudoku_input2.png)
 
 ![Visualization 2](images/sudoku_solved2.png)
 
