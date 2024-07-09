@@ -29,6 +29,16 @@ Sudoku Solver
 
 ### Visualization:
 
+![Visualization 1](images/sudoku.png)
+
+![Visualization 2](images/sudoku_input.png)
+
+![Visualization 2](images/sudoku_solved.png)
+
+![Visualization 2](images/sudoku_input1.png)
+
+![Visualization 2](images/sudoku_solved2.png)
+
 ### Deployment:
 
 You can access the deployed Temperature Conversion Program here, [Sudoku Solver](https://prodigy-sd-04.vercel.app/).
