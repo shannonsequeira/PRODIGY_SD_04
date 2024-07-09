@@ -41,4 +41,4 @@ Sudoku Solver
 
 ### Deployment:
 
-You can access the deployed Temperature Conversion Program here, [Sudoku Solver](https://prodigy-sd-04.vercel.app/).
+You can access the deployed Sudoku Solver Program here, [Sudoku Solver](https://prodigy-sd-04.vercel.app/).
